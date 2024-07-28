@@ -1,16 +1,23 @@
-## Hi there 👋
+### Olá! Eu sou Danilo, sou Técnico em Eletrônica e Desenvolvedor Web
 
-<!--
-**DaniloRibeiro07/DaniloRibeiro07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Em busca de uma carreira de desenvolvedor WEB
+- 🌱 Estudando Ruby on rails
+- 📫 Aracaju/SE - BR
+- 😄 Pronomes: Ele/Dele
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/DaniloRibeiro07/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DaniloRibeiro07&theme=holi&hide=contribs,stars&show_icons=true&rank_icon=github#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloRibeiro07&layout=compact&theme=holi&hide=c%2B%2B,c,shell,makefile,openscad,assembly,dockerfile" />
+</a>
+
+##
+ 
+<div> 
+  <a href="https://www.instagram.com/daniloribei" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/danilorib" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
