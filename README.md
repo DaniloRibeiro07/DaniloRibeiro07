@@ -9,7 +9,7 @@
 
 <div>
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=DaniloRibeiro07&theme=holi&hide=contribs,stars&show_icons=true&rank_icon=github#gh-dark-mode-only" />
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloRibeiro07&layout=compact&theme=holi&hide=c%2B%2B,c,shell,makefile,openscad,assembly,dockerfile" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloRibeiro07&layout=compact&theme=holi&exclude_repo=Firmware---Manuten--o-Aurelio&hide=dockerfile" />
 </div>
 
 ##
