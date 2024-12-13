@@ -1,6 +1,5 @@
-### Olá! Eu sou Danilo, sou Técnico em Eletrônica e Desenvolvedor Web
+### Olá! Eu sou Danilo, sou Desenvolvedor e Técnico em Eletrônica
 
-- 🔭 Em busca de uma carreira de desenvolvedor WEB
 - 🌱 Estudando Ruby on rails
 - 📫 Aracaju/SE - BR
 - 😄 Pronomes: Ele/Dele
