@@ -2,7 +2,6 @@
 
 - 🌱 Estudando Ruby on rails
 - 📫 Aracaju/SE - BR
-- 😄 Pronomes: Ele/Dele
 
 ##
 
