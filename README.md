@@ -1,5 +1,4 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Danilo, i am a software developer :computer: and electronics technician :electric_plug:.
 
 ## Statics
 
