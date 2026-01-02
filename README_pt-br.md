@@ -61,7 +61,7 @@ Atualmente trabalho como **Desenvolvedor de Software na Rebase**, desenvolvendo 
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub 
 
 <div>
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=DaniloRibeiro07&theme=holi&hide=contribs,stars&show_icons=true&rank_icon=github#gh-dark-mode-only" />
